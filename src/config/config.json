@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "talgat1992_cyber",
+    "password": "talgat1992_cyber",
+    "database": "talgat1992_cyber",
+    "host": "176.57.210.4",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "talgat1992_cyber",
+    "password": "talgat1992_cyber",
+    "database": "talgat1992_cyber",
+    "host": "176.57.210.4",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "talgat1992_cyber",
+    "password": "talgat1992_cyber",
+    "database": "talgat1992_cyber",
+    "host": "176.57.210.4",
+    "dialect": "mysql"
+  }
+}
